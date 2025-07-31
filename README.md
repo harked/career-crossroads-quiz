@@ -1,5 +1,8 @@
 # Harmadillo - Your AI Career Consultant
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/397c38e9-f818-4c89-bd36-beb4684cdd90" />
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
