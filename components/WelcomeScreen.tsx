@@ -7,6 +7,7 @@ interface WelcomeScreenProps {
 const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart }) => {
   return (
     <div className="text-center p-8 max-w-2xl mx-auto">
+      <img src="/harma.png" alt="Harmadillo" className="mx-auto mb-8 w-70" />
       <h1 className="text-4xl md:text-5xl font-bold text-slate-800 mb-4">
         Is It Time for a Career Change?
       </h1>
