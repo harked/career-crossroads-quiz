@@ -1,0 +1,5 @@
+{
+  "name": "Career Crossroads Quiz",
+  "description": "An interactive quiz that uses AI to analyze your job satisfaction and provide personalized advice on whether you should consider a new career path.",
+  "requestFramePermissions": []
+}
